@@ -45,14 +45,14 @@ The overall architecture includes a user-friendly interface that interacts with 
 ## Popular E-commerce Websites
 
 The platform supports price comparison for products listed on popular e-commerce websites.
-![Popular E-commerce Websites](![image](https://github.com/Harshit-Dhundale/E-commerce-Price-Comparison-Platform/assets/120770433/454ede79-3992-46ba-a229-2d1d20868175)
-)
+![image](https://github.com/Harshit-Dhundale/E-commerce-Price-Comparison-Platform/assets/120770433/13bcff41-2f09-471c-b49d-d48d1db1f1bd)
+
 
 
 ## Flow Chart
 
-![Flow Chart](![image](https://github.com/Harshit-Dhundale/E-commerce-Price-Comparison-Platform/assets/120770433/1475fbcf-94fa-4457-80cd-57cb0d7a7643)
-)
+![image](https://github.com/Harshit-Dhundale/E-commerce-Price-Comparison-Platform/assets/120770433/dda2714f-6587-4493-a4d6-3972e8b347a4)
+
 
 
 
